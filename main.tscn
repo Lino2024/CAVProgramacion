@@ -16,6 +16,7 @@ script = ExtResource("1_v2tjx")
 position = Vector2(152, 518)
 
 [node name="Camera2D" type="Camera2D" parent="Player"]
+position = Vector2(420, -18)
 limit_top = 0
 limit_bottom = 0
 limit_smoothed = true
